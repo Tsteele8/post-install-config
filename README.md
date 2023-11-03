@@ -38,11 +38,12 @@ IIS is a robust web server that allows hosting, managing, and serving web conten
 </p>
 <br />
 
+
+![image](https://github.com/Tsteele8/post-install-config/assets/149441408/55b171b8-4d33-43ed-b26f-4563aaff4993)
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Azure serves various business needs, from startups to enterprise-level organizations, providing a comprehensive set of cloud-based tools and services for building, deploying, and managing applications and services.
 </p>
 <br />
 
