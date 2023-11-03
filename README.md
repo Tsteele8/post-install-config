@@ -45,12 +45,11 @@ IIS is a robust web server that allows hosting, managing, and serving web conten
 <p>
 Azure serves various business needs, from startups to enterprise-level organizations, providing a comprehensive set of cloud-based tools and services for building, deploying, and managing applications and services.
 </p>
-<br />
+
+![image](https://github.com/Tsteele8/post-install-config/assets/149441408/9b1da5eb-0074-4039-a314-743dc7fd7423)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Remote Desktop technology has become an integral part of various industries, offering convenience, flexibility, and increased productivity by enabling remote access and control of systems.
 </p>
 <br />
